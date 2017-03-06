@@ -9,7 +9,8 @@ text files to generate a finite bag of words that could be used to and predict a
 unknown/unlabelled text document. For this project we worked on designing and building topic
 prediction model for the TED talks to predict similar topic labels for TED Talks.
 
-Methods used
+Methods used:
+
 1. LDA Model
 2. TfIdf Weight Ranking Model
 3. k-NN Model
