@@ -14,3 +14,4 @@ Methods used:
 1. LDA Model
 2. TfIdf Weight Ranking Model
 3. k-NN Model
+4. Word2Vec Model
